@@ -4,7 +4,8 @@ A RAG (Retrieval-Augmented Generation) assistant that answers guest questions ab
 from its own knowledge base — room prices, check-in rules, spa services, restaurant menu, FAQs —
 and shows which documents each answer came from.
 
-> "Azure Horizon Resort & Spa" is a fictional hotel; all names and data are placeholders.
+> Built for a real hotel. "Azure Horizon Resort & Spa" and all names and data shown are placeholders
+> to protect the client's identity.
 
 ## Architecture
 
